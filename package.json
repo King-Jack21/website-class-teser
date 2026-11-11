@@ -1,3 +1,4 @@
+
 {
   "name": "vantrex-class",
   "version": "1.0.0",
@@ -12,7 +13,7 @@
     "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.57.0",
     "lucide-react": "^0.468.0",
-    "next": "15.5.6",
+    "next": "15.5.29",
     "next-themes": "^0.4.4",
     "react": "19.1.0",
     "react-dom": "19.1.0"
@@ -22,7 +23,7 @@
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.7",
     "eslint": "^9.30.1",
-    "eslint-config-next": "15.5.6",
+    "eslint-config-next": "15.5.29",
     "tailwindcss": "^4.1.11",
     "@tailwindcss/postcss": "^4.1.11",
     "typescript": "^5.8.3"
